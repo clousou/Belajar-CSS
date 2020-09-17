@@ -1,0 +1,29 @@
+html {
+  min-height: 100%;
+}
+body {
+  background: radial-gradient(rgb(32, 183, 233), rgb(82, 238, 82));
+}
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+tr,
+td,
+th,
+table {
+  border: 1px solid black;
+}
+
+.top-header-class {
+  color: rgb(139, 123, 90);
+}
+
+.first-h2 {
+  color: rgb(111, 183, 247);
+}
+
+#second-h2 {
+  color: rgb(3, 79, 82);
+}
