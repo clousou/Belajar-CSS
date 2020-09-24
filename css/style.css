@@ -60,3 +60,11 @@ li:nth-child(2) {
 #goole-link:visited {
   color: black;
 }
+
+.clock-style{
+  color: rgb(18, 50, 233);
+  font-size: 56px;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
